@@ -1,6 +1,7 @@
 # MKS-MFC-Multiple-Controller
 MKS MFC Multiple Controller - Using Python
 
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c2b1a884-ac4f-45c7-be1f-0d353b56a6fb" />
 
 *** The MFC must be manually set up as Modbus protocol, available after going to configuration page of each MFC. ***
 pymodbus must be downloaded by executing the command "pip install pymodbus==3.6.9" on your computer.
@@ -16,6 +17,7 @@ Subnet mask: 255.255.0.0
 Change the parameter NUMBER OF CONTROLLERS to desired number of MFCs to control.
 
 ---PERFORM THE STEPS ABOVE OR IT WILL NOT WORK---
+
 Runs on Python version 3.8.
 Newer versions of pymodbus doesn't seem to work (3.8.x or newer)
 
