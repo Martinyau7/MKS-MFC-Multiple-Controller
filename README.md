@@ -1,7 +1,9 @@
 # MKS-MFC-Multiple-Controller
 MKS MFC Multiple Controller - Using Python, provided with a Graphical User Interface (GUI)
 
-      <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c2b1a884-ac4f-45c7-be1f-0d353b56a6fb" />
+<p align="center">
+  <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c2b1a884-ac4f-45c7-be1f-0d353b56a6fb" />
+</p>
 
 *** The MFC must be manually set up as Modbus protocol, available after going to configuration page of each MFC. ***
 
